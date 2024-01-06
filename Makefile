@@ -6,12 +6,11 @@
 #    By: mel-ayou < mel-ayou@student.42.fr>         +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2023/12/09 22:01:08 by mel-ayou          #+#    #+#              #
-#    Updated: 2023/12/25 17:59:02 by mel-ayou         ###   ########.fr        #
+#    Updated: 2024/01/06 05:17:35 by mel-ayou         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
-
-NAME 	=	printf.a
+NAME 	=	libftprintf.a
 
 CC		=	cc
 

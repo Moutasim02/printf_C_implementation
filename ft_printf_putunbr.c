@@ -6,7 +6,7 @@
 /*   By: mel-ayou < mel-ayou@student.42.fr>         +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/12/24 14:37:21 by mel-ayou          #+#    #+#             */
-/*   Updated: 2023/12/25 18:07:37 by mel-ayou         ###   ########.fr       */
+/*   Updated: 2024/01/06 03:49:52 by mel-ayou         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -14,7 +14,7 @@
 
 int	ft_printf_putunbr(unsigned long number)
 {
-	int counter;
+	int	counter;
 
 	counter = 0;
 	if (number >= 10)
